@@ -20,7 +20,7 @@ An example result from inference is shown below:
 ### Inference configuration
 The inference requires:
 - GPU: at least 58GB GPU memory for 512 x 512 x 512
-- Disk Memory: at least 21GB disk memoryss
+- Disk Memory: at least 21GB disk memorysss
 
 #### Inference parameters:
 The information for the inference input, like body region and anatomy to generate, is stored in [./configs/inference.json](../configs/inference.json). Please feel free to play with it. Here are the details of the parameters.
